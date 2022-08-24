@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: de.michm.cli.Main
+Class-Path: AssmusMenu-0.6.7.jar
+
